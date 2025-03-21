@@ -154,7 +154,22 @@ main {
   color: rgb(0, 0, 0);
 }
 
+.lmfmAD button{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 87%;
+  background-color: #6eb9ff;
+}
 
+.ultrakillAD button{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  bottom:96%;
+  left:87%;
+  background-color: #6eb9ff;
+}
 
 .boton {
   background: rgb(22, 219, 101);
